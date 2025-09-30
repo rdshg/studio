@@ -1,3 +1,34 @@
-baseURL: https://example.org/
+baseURL: https://studio.rdshg.com
 languageCode: en-us
-title: My New Hugo Site
+title: R studio
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: 文档
+      pageRef: /docs
+      weight: 1
+    - name: 博客
+      pageRef: /blog
+      weight: 2
+    - name: 搜索
+      params:
+        type: search
+      weight: 3
+    - name: Glance
+      url: "https://glance.rdshg.com"  
+      params:
+        icon: newspaper
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 20
