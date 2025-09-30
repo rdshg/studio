@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://studio.rdshg.com/blog/</loc>
     <lastmod>2025-09-30T19:39:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://studio.rdshg.com/docs/</loc>
     <lastmod>2025-09-30T19:39:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://studio.rdshg.com/</loc>
     <lastmod>2025-09-30T19:39:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://studio.rdshg.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://studio.rdshg.com/tags/</loc>
   </url>
 </urlset>
