@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R studio – Docs</title>
+    <title>Studio – Docs</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on R studio</description>
+    <description>Recent content in Docs on Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Sep 2025 19:39:35 +0800</lastBuildDate>

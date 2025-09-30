@@ -1,6 +1,6 @@
 baseURL: https://studio.rdshg.com
 languageCode: en-us
-title: R studio
+title: Studio
 
 module:
   imports:
@@ -25,10 +25,10 @@ menu:
 
 params:
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
+      path: logo.svg
+      dark: logo-dark.svg
       link: /
-      width: 20
+      width: 32

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R studio – Blog</title>
+    <title>Studio – Blog</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on R studio</description>
+    <description>Recent content in Blog on Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Sep 2025 19:39:55 +0800</lastBuildDate>
